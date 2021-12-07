@@ -1,3 +1,3 @@
 # email
 
-A python program to send emails.
+A simple Python program to send emails.
